@@ -1,0 +1,5 @@
+D:\Demo\HTML\CAP\Cap_Casus\bin\Debug\Cap_Casus.dll
+D:\Demo\HTML\CAP\Cap_Casus\bin\Debug\Cap_Casus.pdb
+D:\Demo\HTML\CAP\Cap_Casus\obj\Debug\Cap_Casus.csprojResolveAssemblyReference.cache
+D:\Demo\HTML\CAP\Cap_Casus\obj\Debug\Cap_Casus.dll
+D:\Demo\HTML\CAP\Cap_Casus\obj\Debug\Cap_Casus.pdb
